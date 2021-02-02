@@ -1,35 +1,60 @@
-# Home Asstant Docs 
+# **Home Asstant Docs** 
 ----
-## Automations
+@author Delphik
+
+Documentation for Personal Installation of Home-Assistant
+
+## **Addons**
 ----
-
-* #### Bedroom Lights
-    Tasmota Smart Plug
-
-* #### Cactus Heater
-
-* #### Dehydrator
-
-## Backups
 ----
 
-### Google-Drive-Backup
-https://github.com/sabeechen/hassio-google-drive-backup
-
-Community Addon to sync Screenshots too
-
-## Hardware
+### **Backups**
 ----
 
-### Shops
+* #### **Google-Drive-Backup**
 
-* https://cloudfree.shop/ - Community Run Store for selling devices pre-flashed with open firmwares - Coupon"selfhosted""
+      * https://github.com/sabeechen/hassio-google-drive-backup
 
-### Purchased
+        * Community Addon to sync snapshots too Google-Drive
 
-#### Smart Switches
+        * Syncs every 3 days and stores 3 snapshots
 
-* https://cloudfree.shop/product/cloudfree-smart-plug/ Tasmota Smart Plug x4
-* https://cloudfree.shop/product/gosund-light-switch-flashed-with-tasmota/ Tasmota Smart Switch x2
 
-### Considering
+## **Automations**
+----
+----
+
+* #### **Bedroom Lights**
+
+    ##### **Hardware**
+
+        * Tasmota Smart Plug, attached Via extension cord to lamp and LED Light Strip
+
+    ##### **Automation**
+        Turns on at 12pm and off at 1am
+
+
+* #### **Cactus Heater**
+
+* #### **Dehydrator**
+
+
+## **Hardware**
+----
+----
+
+### **Shops**
+----
+
+    * https://cloudfree.shop/ - Community Run Store for selling devices pre-flashed with open firmwares - Coupon"selfhosted""
+
+### **Purchased**
+----
+
+#### **Smart-Switches**
+
+    *  Tasmota Smart Plug x4 - https://cloudfree.shop/product/cloudfree-smart-plug/
+    *  Tasmota Smart Switch x2 - https://cloudfree.shop/product/gosund-light-switch-flashed-with-tasmota/
+
+### **Considering**
+---

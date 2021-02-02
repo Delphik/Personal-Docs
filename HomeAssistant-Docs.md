@@ -8,8 +8,6 @@ Documentation for Personal Installation of Home-Assistant
 ----
 ----
 
-### **Backups**
-----
 
 * #### **Google-Drive-Backup**
 
@@ -28,16 +26,40 @@ Documentation for Personal Installation of Home-Assistant
 
     ##### **Hardware**
 
-        * Tasmota Smart Plug, attached Via extension cord to lamp and LED Light Strip
+    * Tasmota Smart Plug
+        
+            Attached Via extension cord to lamp and LED Light Strip
 
     ##### **Automation**
         Turns on at 12pm and off at 1am
-
+    
+    ##### **YAML**
+    
 
 * #### **Cactus Heater**
+    
+    ##### **Hardware**
+
+     * Tasmota Smart Plug
+        
+            Attached Via extension cord to Cactus Heater x 2
+
+    ##### **Automation**
+            test text
+    
+    ##### **YAML**
+
+        
+
 
 * #### **Dehydrator**
 
+
+    ##### **Hardware**
+
+    ##### **Automation**
+
+    ##### **YAML**
 
 ## **Hardware**
 ----
@@ -46,15 +68,21 @@ Documentation for Personal Installation of Home-Assistant
 ### **Shops**
 ----
 
-    * https://cloudfree.shop/ - Community Run Store for selling devices pre-flashed with open firmwares - Coupon"selfhosted""
+ * https://cloudfree.shop/ 
+        
+        Community Run Store for selling devices pre-flashed with open firmwares - Coupon"selfhosted""
 
 ### **Purchased**
 ----
 
 #### **Smart-Switches**
 
-    *  Tasmota Smart Plug x4 - https://cloudfree.shop/product/cloudfree-smart-plug/
-    *  Tasmota Smart Switch x2 - https://cloudfree.shop/product/gosund-light-switch-flashed-with-tasmota/
+*  Tasmota Smart Plug x4 
+    
+        https://cloudfree.shop/product/cloudfree-smart-plug/
+*  Tasmota Smart Switch x2
+    
+        https://cloudfree.shop/product/gosund-light-switch-flashed-with-tasmota/
 
 ### **Considering**
 ---

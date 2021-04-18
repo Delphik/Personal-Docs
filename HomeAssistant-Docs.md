@@ -81,6 +81,8 @@ Documentation for Personal Installation of Home-Assistant
 
         https://smile.amazon.com/gp/product/B0796QMMR4/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&th=1
 
+        Notes: Fuck the Yeelight platform alltogether. Looses 99% of functionality when you try and ditch the crappy chinese spyware app.
+
 * YEELIGHT Lightstrip 1S 1 Meter Extend Strap (1 Meter Extension) x1
 
         https://smile.amazon.com/gp/product/B07FSLJ5KQ/ref=ox_sc_saved_title_1?smid=A1SD0EXFIHKNYD&psc=1
@@ -120,6 +122,7 @@ Documentation for Personal Installation of Home-Assistant
 *  Tasmota Smart Plug x4 
     
         https://cloudfree.shop/product/cloudfree-smart-plug/
+
 *  Tasmota Smart Switch x2
     
         https://cloudfree.shop/product/gosund-light-switch-flashed-with-tasmota/
@@ -145,6 +148,8 @@ Documentation for Personal Installation of Home-Assistant
         https://cloudfree.shop/product/sonoff-s31-lite-zigbee/
 
 * Sonoff Zigbee 3.0 Dongle
+        
+        Unshielded USB Zigbee adapter dongle
 
         https://cloudfree.shop/product/sonoff-zigbee-3-0-dongle/
 ### **Considering**

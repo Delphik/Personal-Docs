@@ -85,6 +85,17 @@ Documentation for Personal Installation of Home-Assistant
 
         https://smile.amazon.com/gp/product/B07FSLJ5KQ/ref=ox_sc_saved_title_1?smid=A1SD0EXFIHKNYD&psc=1
 
+#### **NFC**
+
+
+* 30mm On-Metal NFC Tag x5
+      
+        https://cloudfree.shop/product/30mm-on-metal-nfc-tag/
+
+* 1″ PVC NFC Coin Tag x3
+
+        https://cloudfree.shop/product/1-pvc-nfc-coin-tag/
+
 
 #### **SBCs and Microcontrollers**
 
@@ -113,9 +124,29 @@ Documentation for Personal Installation of Home-Assistant
     
         https://cloudfree.shop/product/gosund-light-switch-flashed-with-tasmota/
 
+#### **Sensors**
+
+* BME280 Temperature, Humidity, and Pressure Sensor
+
+        https://cloudfree.shop/product/bme280-temperature-humidity-and-pressure-sensor/
+
+* Ultrasonic Distance Sensor – HC-SR04
+
+        https://cloudfree.shop/product/ultrasonic-distance-sensor-hc-sr04/
+
+
 #### **Other**
 
 
+#### **Zigbee**
+
+* Sonoff S31 Lite Zigbee x3
+
+        https://cloudfree.shop/product/sonoff-s31-lite-zigbee/
+
+* Sonoff Zigbee 3.0 Dongle
+
+        https://cloudfree.shop/product/sonoff-zigbee-3-0-dongle/
 ### **Considering**
 ---
 
@@ -132,22 +163,5 @@ Documentation for Personal Installation of Home-Assistant
 
         https://www.raspberrypi.org/products/raspberry-pi-pico/
 
-#### **Sensors**
-
-* BME280 Temperature, Humidity, and Pressure Sensor
-
-        https://cloudfree.shop/product/bme280-temperature-humidity-and-pressure-sensor/
-
-* Ultrasonic Distance Sensor – HC-SR04
-
-        https://cloudfree.shop/product/ultrasonic-distance-sensor-hc-sr04/
 
 #### **Other**
-
-* 30mm On-Metal NFC Tag
-      
-        https://cloudfree.shop/product/30mm-on-metal-nfc-tag/
-
-* 1″ PVC NFC Coin Tag
-
-        https://cloudfree.shop/product/1-pvc-nfc-coin-tag/
